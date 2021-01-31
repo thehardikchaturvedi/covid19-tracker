@@ -1,5 +1,7 @@
 # React COVID Tracker
 
+Live Demo:https://covid-19-tracker-1de38.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
